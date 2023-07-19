@@ -4,3 +4,45 @@
    text-decoration: none;
    box-sizing: border-box;
 } 
+
+
+.nav-item{
+   padding-right: 50px;
+   padding-left: 13px;
+}
+.col-lg-4{
+   margin-top: 40px;
+}
+
+.style{
+   text-decoration: none;
+   color:white;
+   background-color: black;
+}
+
+#one{
+   background-color:rgb(196, 54, 77);
+   height: 650px;
+}
+
+#two{
+   background-color: black;
+   color: bisque;
+   height: 650px;
+   
+}
+
+.image{
+   margin:100px;
+}
+#three{
+   background-color: antiquewhite;
+
+}
+.cm{
+   padding-left: 600px;
+}
+.box{
+   border: solid;
+}
+
