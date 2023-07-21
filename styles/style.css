@@ -5,6 +5,9 @@
    box-sizing: border-box;
 } 
 
+body{
+   font-family: 'Roboto', sans-serif;
+   }
 
 .nav-item{
    padding-right: 50px;
@@ -19,6 +22,7 @@
    color:white;
    background-color: black;
 }
+
 
 #one{
    background-color:rgb(196, 54, 77);
@@ -45,4 +49,6 @@
 .box{
    border: solid;
 }
-
+audio{
+   visibility: hidden;
+}
